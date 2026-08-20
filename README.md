@@ -41,3 +41,7 @@ The live demo intentionally uses synthetic financial data. Do not claim its outp
 ## Interview explanation
 
 This is deliberately not “a dashboard.” The app links a forecast to a decision policy and concrete actions. It highlights a central treasury trade-off: reduce a possible cash shortfall while avoiding unnecessarily aggressive collection or cost-cutting measures.
+
+## Important note
+
+By modifying "engine.py", you can include data from different companies and compare their cashflow. The one in this code is just used as an example. 
